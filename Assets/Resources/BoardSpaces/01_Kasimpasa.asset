@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01699777a11e5cb4abe76d8bb76770cc, type: 3}
+  m_Name: 01_Kasimpasa
+  m_EditorClassIdentifier: 
+  spaceName: "Kas\u0131mpa\u015Fa"
+  boardIndex: 1
+  type: 0
+  colorGroup: 0
+  price: 60
+  baseRent: 2
+  baseMent: 4
+  houseRent1: 10
+  houseRent2: 30
+  houseRent3: 90
+  houseRent4: 180
+  hotelRent: 250
+  houseCost: 50
+  hotelCost: 50

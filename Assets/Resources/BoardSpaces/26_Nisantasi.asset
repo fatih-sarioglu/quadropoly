@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01699777a11e5cb4abe76d8bb76770cc, type: 3}
+  m_Name: 26_Nisantasi
+  m_EditorClassIdentifier: 
+  spaceName: "Ni\u015Fanta\u015F\u0131"
+  boardIndex: 26
+  type: 0
+  colorGroup: 5
+  price: 260
+  baseRent: 22
+  baseMent: 44
+  houseRent1: 110
+  houseRent2: 330
+  houseRent3: 800
+  houseRent4: 975
+  hotelRent: 1150
+  houseCost: 150
+  hotelCost: 150
